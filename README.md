@@ -4,6 +4,13 @@
 To write a java program to add, retrieve and remove the element from the ArrayList.
 
 ## PROCEDURE:
+1. Create an ArrayList called numbers to store integers.
+2. Add the elements 10, 20, and 30 to the numbers ArrayList using the add() method.
+3. Print the contents of the numbers ArrayList using System.out.println().
+4. Retrieve the first element from the numbers ArrayList using the get() method and store it in the variable firstElement.
+5. Print the value of the firstElement variable using System.out.println().
+6. Remove the element at index 1 from the numbers ArrayList using the remove() method.
+7. Print the updated contents of the numbers ArrayList using System.out.println().
 
 ## PROGRAM:
 ```
